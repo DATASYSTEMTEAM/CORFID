@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
- Fer es un trolaso y le gusta el pedaso<br/>
+ Fer es un trolaso y le gusta la enormidad<br/>
  el chibazo está lleno de leche.
- La loca cantando..
+ La loca cantando...
 </body>
 </html>
