@@ -11,6 +11,6 @@
  Fer es un trolaso y le gusta la enormidad<br/>
  el chibazo esta lleno de leche y le gotea cuando le dan el chisito.
  La loca cantando y nadie lo quiere.<br/>
- Luci por las noches, Fer por las mañanas
+ Luci por las noches, Fer por las mañanas, se lo revientan.
 </body>
 </html>
