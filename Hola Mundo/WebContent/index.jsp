@@ -8,9 +8,15 @@
 </head>
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
  Fer es un trolaso y le gusta el pedazooooooo1111122222<br/>
  el chibazo está lleno de leche.
  La loca cantando..
+=======
+ Fer es un trolaso y le gusta la enormidad<br/>
+ el chibazo está lleno de leche.
+ La loca cantando y nadie lo quiere
+>>>>>>> bfb79fb5943e60b6e75fc3d60d2b8ea8fc50238e
 =======
  Fer es un trolaso y le gusta la enormidad<br/>
  el chibazo está lleno de leche.
