@@ -9,6 +9,6 @@
 <body>
  Fer es un trolaso y le gusta la enormidad<br/>
  el chibazo está lleno de leche.
- La loca cantando y nadie lo quiereaaaa
+ La loca cantando y nadie lo quiere
 </body>
 </html>
